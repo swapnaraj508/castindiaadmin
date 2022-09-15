@@ -1,0 +1,15 @@
+1662813559099	geckodriver	INFO	Listening on 127.0.0.1:57183
+1662813562156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajas\\AppData\\Local\\Temp\\rust_mozprofileTJUXlg"
+1662813562775	Marionette	INFO	Marionette enabled
+1662813562781	Marionette	INFO	Listening on port 57198
+WebDriver BiDi listening on ws://localhost:57184
+Read port: 57198
+1662813562997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajas\\AppData\\Local\\Temp\\rust_mozprofileTJUXlg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57184/devtools/browser/9ddd7ebd-435d-4952-ba9a-65bdf58b42ba
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 400: TypeError: e(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 3889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662813582053	Marionette	INFO	Stopped listening on port 57198
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\rajas\AppData\Local\Temp\rust_mozprofileTJUXlg\protections.sqlite

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a251f99-9947-439e-9e9f-991aac883e2f" name="Changes" comment="ADMIN CODE">
+      <change afterPath="$PROJECT_DIR$/Resources/fromresource.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/loginresource.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/resources.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/tdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageObjects/Elementlocations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/TC2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/TC3.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/Table.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/alert.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/browserfunctions.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/chechbox2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/dd1.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/ddt2.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/dragdrop.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/dummy.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/forloop.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/form.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/frames.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/linktext.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/multiplebrowsers.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/scroll.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/selectbuttons.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/switchtomulbrows.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/tabbedwindows.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/withargs.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/withoutargs.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/TC1.robot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EFr6vfT5omGSXH4nAzk55AShxh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajas/PycharmProjects/robotframework-admincastindia&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajas\PycharmProjects\robotframework-admincastindia\testcases" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="robotframework-admincastindia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a251f99-9947-439e-9e9f-991aac883e2f" name="Changes" comment="" />
+      <created>1662202001492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662202001492</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ADMIN CODE">
+      <created>1662312441083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662312441083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADMIN CODE">
+      <created>1662313427246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662313427246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADMIN CODE">
+      <created>1662313674762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662313674762</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADMIN CODE">
+      <created>1662313764161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662313764161</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADMIN CODE" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADMIN CODE" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

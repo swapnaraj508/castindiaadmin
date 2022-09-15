@@ -1,0 +1,16 @@
+1662813630709	geckodriver	INFO	Listening on 127.0.0.1:57403
+1662813634026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rajas\\AppData\\Local\\Temp\\rust_mozprofileoDh2KX"
+1662813634775	Marionette	INFO	Marionette enabled
+1662813634791	Marionette	INFO	Listening on port 57416
+WebDriver BiDi listening on ws://localhost:57404
+Read port: 57416
+1662813635034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rajas\\AppData\\Local\\Temp\\rust_mozprofileoDh2KX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57404/devtools/browser/bdd15e10-1af0-4e0a-8462-8a57e4788609
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 400: TypeError: e(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 2618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PsgKtCaN-XibavDd5zYoPighR_y43YjKXjrNcIggNuI.js line 2 > eval line 661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662813656270	Marionette	INFO	Stopped listening on port 57416
+[Parent 40840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\rajas\AppData\Local\Temp\rust_mozprofileoDh2KX\protections.sqlite
